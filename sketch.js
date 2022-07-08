@@ -1135,12 +1135,12 @@ function Info(){
   // alert and shows me instagram and telegram profile games link
   if (mousePressedOver(tele)){
     click.play();
-    alert("My Telegram profile URL is https://t.me/Masha_007_Masha");
+    alert("My Telegram profile URL is https://t.me/sleepy_zenitsu_agatsuma");
   }
 
   if (mousePressedOver(insta)){
     click.play();
-    alert("My Instagram profile URL is https://www.instagram.com/masha_007_masha/");
+    alert("My Instagram profile URL is https://www.instagram.com/sleepy_zenitsu_agatsuma/");
   }
 
   // change the game state to "more"
